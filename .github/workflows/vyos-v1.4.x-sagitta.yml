@@ -10,7 +10,7 @@ env:
   GIT_CLONE_URL: https://github.com/vyos/vyos-build
   BRANCH: sagitta
   ARCHITECTURE: amd64
-  BUILD_BY: vyos-build-action@github.com
+  BUILD_BY: dimitrijp@protonmail.com
   BUILD_TYPE: release
   VERSION: 1.4.0
   DEBIAN_MIRROR: http://ftp.us.debian.org/debian/
